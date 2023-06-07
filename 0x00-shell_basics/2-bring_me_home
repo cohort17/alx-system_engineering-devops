@@ -1,2 +1,2 @@
 #!/bin/bash
-cd root/usr/home
+cd ./usr/home
