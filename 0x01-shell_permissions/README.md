@@ -1,0 +1,1 @@
+training on shell permissions
