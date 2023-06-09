@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -v 0x00-shell_basics *html ../
+cp -v *html ../
