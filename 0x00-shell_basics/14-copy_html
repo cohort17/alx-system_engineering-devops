@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -v logus.html green.html alx.html bond.html fun.html *html ../
+cp  *.html ../
