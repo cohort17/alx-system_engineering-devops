@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n 1 iacta > Nxt_1 && cat Nxt_1
+echo $(tail -n 1 iacta)
