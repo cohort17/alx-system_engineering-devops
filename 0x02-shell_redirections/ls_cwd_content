@@ -1,0 +1,15 @@
+total 52
+drwxr-xr-x 2 chiadikaobi chiadikaobi 4096 Jun 11 19:08 .
+drwxr-xr-x 7 chiadikaobi chiadikaobi 4096 Jun 11 10:03 ..
+-rwxr-xr-x 1 chiadikaobi chiadikaobi   36 Jun 11 10:05 0-hello_world
+-rwxr-xr-x 1 chiadikaobi chiadikaobi   26 Jun 11 18:08 1-confused_smiley
+-rwxr-xr-x 1 chiadikaobi chiadikaobi   28 Jun 11 10:47 2-hellofile
+-rwxr-xr-x 1 chiadikaobi chiadikaobi   39 Jun 11 11:07 3-twofiles
+-rwxr-xr-x 1 chiadikaobi chiadikaobi   35 Jun 11 11:20 4-lastlines
+-rwxr-xr-x 1 chiadikaobi chiadikaobi   35 Jun 11 11:24 5-firstlines
+-rwxr-xr-x 1 chiadikaobi chiadikaobi   40 Jun 11 18:37 6-third_line
+-rwxr-xr-x 1 chiadikaobi chiadikaobi  115 Jun 11 19:04 7-file
+-rwxr-xr-x 1 chiadikaobi chiadikaobi   36 Jun 11 19:07 8-cwd_state
+-rw-r--r-- 1 chiadikaobi chiadikaobi   53 Jun 11 11:03 README.md
+-rwxr-xr-x 1 chiadikaobi chiadikaobi  869 Jun 11 18:39 iacta
+-rw-r--r-- 1 chiadikaobi chiadikaobi    0 Jun 11 19:08 ls_cwd_content
