@@ -1,4 +1,2 @@
 #!/bin/bash
-words=$(sort list)
-x_words=$(echo "words") | uniq -u
-echo "$x_words"
+sort list | uniq -u
