@@ -1,2 +1,2 @@
 #!/bin/bash
-awk '/bin/ {plus++} END {print plus}' /etc/passwd
+grep -c "bin" /etc/passwd
