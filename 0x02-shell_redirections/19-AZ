@@ -1,2 +1,2 @@
 #!/bin/bash
-echo brcadA | tr 'Ac' 'Ze'
+tr 'Ac' 'Ze'
