@@ -1,2 +1,2 @@
 #!/bin/bash
-awk 'END{print}' iacta > ex_cop | cat ex_cop > iacta
+tail -n 1 iacta | tee -a iacta
