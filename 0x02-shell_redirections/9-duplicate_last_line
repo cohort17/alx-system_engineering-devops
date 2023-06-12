@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n 1 iacta > dup_line | cat dup_line
+tail iacta > dup_line && cat dup_line
