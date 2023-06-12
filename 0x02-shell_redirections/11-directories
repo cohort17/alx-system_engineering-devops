@@ -1,3 +1,3 @@
 #!/bin/bash
-ls -Rl | grep -c "/$" | sed '1d'
+ls -Rla
 
