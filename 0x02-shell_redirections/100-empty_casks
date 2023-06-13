@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d -empty -exec echo {} \; && find . -type f -empty -exec echo {} \;
+find . -type d -empty && find . -type f -empty 
