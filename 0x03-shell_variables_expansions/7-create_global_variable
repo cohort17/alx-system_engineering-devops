@@ -1,3 +1,2 @@
 #!/bin/bash
-BEST='Schoo'
-export BEST
+export BEST='Schoo'
