@@ -1,0 +1,4 @@
+#!/bin/bash
+BINARY=10100111001
+number=$(printf "%d" "$BINARY")
+echo "$number"
