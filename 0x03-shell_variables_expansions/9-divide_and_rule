@@ -1,4 +1,4 @@
 #!/bin/bash
 export POWER='42784'
 export DIVIDE='32'
-printf "$((POWER/DIVIDE))\n"
+printf "$(($POWER/$DIVIDE))\n"
