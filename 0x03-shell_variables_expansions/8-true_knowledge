@@ -1,3 +1,2 @@
 #!/bin/bash
-export TRUEKNOWLEDGE='1209'
-printf  "$((128 + $TRUEKNOWLEDGE))\n"
+echo $((TRUEKNOWLEDGE+128))
