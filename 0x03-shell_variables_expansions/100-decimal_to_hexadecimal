@@ -1,5 +1,2 @@
 #!/bin/bash
-DECIMAL=16
-Num=$(printf "%x" "$DECIMAL\n")
-echo "$Num
-"
+printf %x'\n' $DECIMAL
